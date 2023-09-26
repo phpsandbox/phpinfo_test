@@ -1,1 +1,1 @@
-# phpinfo_test
+# Sample respository for testing in CI
